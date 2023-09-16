@@ -1,8 +1,1 @@
 # need to actualize
-
-matplotlib==3.7.1
-numpy==1.24.2
-pandas==2.0.0
-scikit-learn==1.2.2
-seaborn==0.12.2
-xgboost==1.7.5
