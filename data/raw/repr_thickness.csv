@@ -1,0 +1,260 @@
+﻿STATE_CODE,STATE_CODE_EXP,SHRP_ID,CONSTRUCTION_NO,LAYER_NO,PROJECT_LAYER_CODE,DESCRIPTION,DESCRIPTION_EXP,LAYER_TYPE,LAYER_TYPE_EXP,REPR_THICKNESS,MATL_CODE_EXP,MATL_CODE,LAYER_COMMENT1,LAYER_COMMENT1_EXP,LAYER_COMMENT2,LAYER_COMMENT2_EXP,LAYER_COMMENT3,LAYER_COMMENT3_EXP,COMMENT_NOTE,INV_LAYER_NO,INV_LAYER_NO_2,RECORD_STATUS
+1,Alabama,1021,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,25.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,6,,E
+1,Alabama,4125,1,6,,3,Original Surface Layer,AC,Asphalt concrete layer,20.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,6,,E
+1,Alabama,4126,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,35.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,6,,E
+1,Alabama,1021,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,53.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,Z,Other (Enter description in COMMENT_NOTE field.),,,,,LAYER4 IN INV WAS CODE 71,5,,E
+1,Alabama,4126,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,297.2,"Hot Mixed, Hot Laid AC, Dense Graded",1,Z,Other (Enter description in COMMENT_NOTE field.),,,,,ALSO INCLUDES INV LAYERS 4 & 5,3,,E
+1,Alabama,4125,1,5,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,66.0,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+5,Arkansas,3048,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,48.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+5,Arkansas,3048,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,73.7,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+6,California,1253,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,91.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+6,California,2004,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,86.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+6,California,2647,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,94.0,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+6,California,8151,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,104.1,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+6,California,8201,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,114.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+12,Florida,1060,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,25.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+12,Florida,3995,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,27.9,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+12,Florida,3996,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,38.1,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+12,Florida,4097,1,8,,3,Original Surface Layer,AC,Asphalt concrete layer,58.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,7,,E
+12,Florida,4099,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,27.9,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+12,Florida,4103,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,55.9,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+12,Florida,4105,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,50.8,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+12,Florida,4107,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,53.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+12,Florida,4108,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,86.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+12,Florida,9054,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,63.5,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+12,Florida,1060,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,76.2,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+12,Florida,3995,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,99.1,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+12,Florida,4097,1,7,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,58.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,7,,E
+12,Florida,4099,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,63.5,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+13,Georgia,4111,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,205.7,"Hot Mixed, Hot Laid AC, Dense Graded",1,Z,Other (Enter description in COMMENT_NOTE field.),,,,,INV. LAYERS 3&4 COMBN'D,4,,E
+15,Hawaii,1003,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,53.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+15,Hawaii,1006,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,55.9,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+15,Hawaii,1008,1,6,,3,Original Surface Layer,AC,Asphalt concrete layer,50.8,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+15,Hawaii,7080,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,96.5,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+15,Hawaii,1003,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,63.5,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+15,Hawaii,1006,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,58.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+15,Hawaii,1008,1,5,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,61.0,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+16,Idaho,1021,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,142.2,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+17,Illinois,1003,1,6,,3,Original Surface Layer,AC,Asphalt concrete layer,33.0,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+17,Illinois,1003,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,119.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+17,Illinois,1003,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,94.0,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+17,Illinois,1003,1,5,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,63.5,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+18,Indiana,2009,1,6,,3,Original Surface Layer,AC,Asphalt concrete layer,61.0,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,6,,E
+18,Indiana,2009,1,5,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,83.8,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+23,Maine,1012,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,33.0,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+23,Maine,1012,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,203.2,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+26,Michigan,1001,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,55.9,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+26,Michigan,1010,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,20.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+26,Michigan,1010,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,35.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+27,Minnesota,1029,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,45.7,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+27,Minnesota,1029,1,2,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,167.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,2,,E
+28,Mississippi,1016,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,20.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+28,Mississippi,3082,1,6,,3,Original Surface Layer,AC,Asphalt concrete layer,40.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+28,Mississippi,3083,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,40.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+28,Mississippi,1016,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,137.2,"Hot Mixed, Hot Laid AC, Dense Graded",1,Z,Other (Enter description in COMMENT_NOTE field.),,,,,LAY 3 IN INV. WAS CODE 21,3,,E
+28,Mississippi,3082,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,55.9,"Hot Mixed, Hot Laid AC, Dense Graded",1,Z,Other (Enter description in COMMENT_NOTE field.),,,,,THICKNESS VARIES 0 TO 5,3,,E
+28,Mississippi,1016,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,35.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+28,Mississippi,3082,1,5,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,86.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+29,Missouri,1005,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,25.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+29,Missouri,1005,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,152.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+29,Missouri,1005,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,48.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+30,Montana,1001,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,68.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+34,New Jersey,1638,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,61.0,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+34,New Jersey,1638,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,172.7,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+35,New Mexico,1022,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,139.7,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+35,New Mexico,1112,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,137.2,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+35,New Mexico,2006,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,114.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+37,North Carolina,1030,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,101.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,4,E
+40,Oklahoma,1015,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,35.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+40,Oklahoma,1017,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,43.2,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+40,Oklahoma,4165,1,3,,3,Original Surface Layer,AC,Asphalt concrete layer,68.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+45,South Carolina,1008,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,38.1,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+45,South Carolina,1008,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,55.9,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+47,Tennessee,3075,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,17.8,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+47,Tennessee,3075,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,78.7,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+47,Tennessee,3075,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,30.5,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+48,Texas,3609,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,40.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,N,Info from the state DOT indicates that beginning end is more representative.,,,,,,4,,E
+48,Texas,1049,1,6,,3,Original Surface Layer,AC,Asphalt concrete layer,25.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,6,,E
+48,Texas,1060,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,43.2,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+48,Texas,3559,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,15.2,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+48,Texas,3609,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,58.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,N,Info from the state DOT indicates that beginning end is more representative.,,,,,,3,,E
+48,Texas,1049,1,5,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,91.4,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+48,Texas,1060,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,147.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+50,Vermont,1002,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,76.2,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,5,E
+50,Vermont,1002,1,3,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,139.7,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+53,Washington,1501,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,48.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+56,Wyoming,2018,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,124.5,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,3,,E
+85,Newfoundland,1801,1,5,,3,Original Surface Layer,AC,Asphalt concrete layer,35.6,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,5,,E
+85,Newfoundland,1808,1,4,,3,Original Surface Layer,AC,Asphalt concrete layer,81.3,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,5,E
+85,Newfoundland,1801,1,4,,4,AC Layer Below Surface (Binder Course),AC,Asphalt concrete layer,45.7,"Hot Mixed, Hot Laid AC, Dense Graded",1,,,,,,,,4,,E
+6,California,2004,1,5,,9,Friction Course,AC,Asphalt concrete layer,17.8,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,5,,E
+6,California,8151,1,4,,9,Friction Course,AC,Asphalt concrete layer,10.2,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,4,,E
+12,Florida,4097,1,9,,9,Friction Course,AC,Asphalt concrete layer,10.2,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,8,,E
+12,Florida,4103,1,5,,9,Friction Course,AC,Asphalt concrete layer,17.8,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,5,,E
+12,Florida,4105,1,5,,9,Friction Course,AC,Asphalt concrete layer,7.6,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,5,,E
+12,Florida,4107,1,4,,9,Friction Course,AC,Asphalt concrete layer,15.2,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,5,,E
+12,Florida,4108,1,5,,9,Friction Course,AC,Asphalt concrete layer,12.7,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,5,,E
+13,Georgia,4111,1,4,,9,Friction Course,AC,Asphalt concrete layer,17.8,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,5,,E
+35,New Mexico,1022,1,4,,9,Friction Course,AC,Asphalt concrete layer,20.3,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,4,,E
+35,New Mexico,1112,1,4,,9,Friction Course,AC,Asphalt concrete layer,20.3,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,4,,E
+35,New Mexico,2006,1,5,,9,Friction Course,AC,Asphalt concrete layer,15.2,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,5,,E
+56,Wyoming,2018,1,5,,9,Friction Course,AC,Asphalt concrete layer,22.9,"Hot Mixed, Hot Laid AC, Open Graded",2,,,,,,,,4,,E
+53,Washington,1501,1,3,,10,Surface Treatment,AC,Asphalt concrete layer,61.0,Other,20,Z,Other (Enter description in COMMENT_NOTE field.),,,,,BITUMONOUS SURFACE TREATMENT,,,E
+1,Alabama,4125,1,3,,2,Seal Coat,AC,Asphalt concrete layer,7.6,Chip Seal,71,Z,Other (Enter description in COMMENT_NOTE field.),,,,,CHIP SEAL ADDED FROM INV. SHEET 3,3,,E
+5,Arkansas,3048,1,5,,2,Seal Coat,AC,Asphalt concrete layer,10.2,Chip Seal,71,,,,,,,,5,,E
+6,California,1253,1,4,,2,Seal Coat,AC,Asphalt concrete layer,5.1,Chip Seal,71,,,,,,,,,,E
+6,California,2647,1,5,,2,Seal Coat,AC,Asphalt concrete layer,2.5,Chip Seal,71,,,,,,,,5,,E
+6,California,8151,1,5,,2,Seal Coat,AC,Asphalt concrete layer,7.6,Chip Seal,71,,,,,,,,,,E
+6,California,8201,1,5,,2,Seal Coat,AC,Asphalt concrete layer,5.1,Chip Seal,71,,,,,,,,5,,E
+12,Florida,4097,1,4,,8,Interlayer,AC,Asphalt concrete layer,17.8,Chip Seal,71,,,,,,,,4,,E
+16,Idaho,1021,1,4,,2,Seal Coat,AC,Asphalt concrete layer,7.6,Chip Seal,71,,,,,,,,4,,E
+28,Mississippi,3083,1,3,,2,Seal Coat,AC,Asphalt concrete layer,12.7,Chip Seal,71,,,,,,,,3,,E
+30,Montana,1001,1,5,,2,Seal Coat,AC,Asphalt concrete layer,2.5,Chip Seal,71,,,,,,,,5,,E
+48,Texas,1049,1,4,,2,Seal Coat,AC,Asphalt concrete layer,12.7,Chip Seal,71,,,,,,,,4,,E
+48,Texas,3609,1,5,,2,Seal Coat,AC,Asphalt concrete layer,7.6,Chip Seal,71,,,,,,,,5,,E
+48,Texas,3559,1,5,,10,Surface Treatment,AC,Asphalt concrete layer,7.6,Chip Seal,71,,,,,,,,6,,E
+18,Indiana,2009,1,7,,2,Seal Coat,AC,Asphalt concrete layer,12.7,Slurry Seal,72,,,,,,,,7,,E
+12,Florida,4097,1,3,,8,Interlayer,AC,Asphalt concrete layer,25.4,Dense Graded Asphalt Concrete Interlayer,78,,,,,,,,3,,E
+12,Florida,4097,1,5,,8,Interlayer,AC,Asphalt concrete layer,25.4,Dense Graded Asphalt Concrete Interlayer,78,,,,,,,,5,,E
+48,Texas,3609,1,1,,7,Subgrade,SS,Subgrade (untreated),,Fine-Grained Soils: Clay,101,,,,,,,,1,,E
+5,Arkansas,3048,1,1,,7,Subgrade,SS,Subgrade (untreated),,Fine-Grained Soils: Lean Inorganic Clay,102,,,,,,,,1,,E
+17,Illinois,1003,1,1,,7,Subgrade,SS,Subgrade (untreated),,Fine-Grained Soils: Lean Inorganic Clay,102,,,,,,,,1,,E
+13,Georgia,4111,1,1,,7,Subgrade,SS,Subgrade (untreated),,Fine-Grained Soils: Sandy Clay,113,E,Gradations similar at section ends and averaged to determine material code.,,,,,,1,,E
+29,Missouri,1005,1,1,,7,Subgrade,SS,Subgrade (untreated),,Fine-Grained Soils: Sandy Clay,113,P,Material code for layer derived from lab. testing of adjacent test section.,Z,Other (Enter description in COMMENT_NOTE field.),,,DERIVED MATERIAL CODE FROM STATE LAYOUT DATA,1,,E
+18,Indiana,2009,1,1,,7,Subgrade,SS,Subgrade (untreated),,Fine-Grained Soils: Sandy Lean Clay,114,E,Gradations similar at section ends and averaged to determine material code.,H,Atterberg limits similar at both section ends and Avg to determine material code.,,,,1,,E
+15,Hawaii,1006,1,1,,7,Subgrade,SS,Subgrade (untreated),457.2,Fine-Grained Soils: Sandy Lean Clay with Gravel,120,,,,,,,,1,,E
+26,Michigan,1010,1,1,,7,Subgrade,SS,Subgrade (untreated),,Fine-Grained Soils: Sandy Silty Clay,135,,,,,,,,1,,E
+40,Oklahoma,1017,1,1,,7,Subgrade,SS,Subgrade (untreated),,Fine-Grained Soils: Silt,141,H,Atterberg limits similar at both section ends and Avg to determine material code.,,,,,,1,,E
+1,Alabama,1021,1,1,,7,Subgrade,SS,Subgrade (untreated),,Fine-Grained Soils: Sandy Silt,145,,,,,,,,1,,E
+15,Hawaii,1003,1,1,,7,Subgrade,SS,Subgrade (untreated),1854.2,Fine-Grained Soils: Sandy Silt,145,Z,Other (Enter description in COMMENT_NOTE field.),,,,,MCC FROM LEAVE END,1,,E
+12,Florida,4108,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand,202,E,Gradations similar at section ends and averaged to determine material code.,Z,Other (Enter description in COMMENT_NOTE field.),,,NO SHOULDER PROBE,1,,E
+12,Florida,3995,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand,202,E,Gradations similar at section ends and averaged to determine material code.,,,,,,1,,E
+12,Florida,4099,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand,202,E,Gradations similar at section ends and averaged to determine material code.,,,,,,1,,E
+12,Florida,4105,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand,202,E,Gradations similar at section ends and averaged to determine material code.,,,,,,1,,E
+12,Florida,9054,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand,202,E,Gradations similar at section ends and averaged to determine material code.,,,,,,1,,E
+26,Michigan,1001,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand,202,,,,,,,,1,,E
+28,Mississippi,3082,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand,202,,,,,,,,1,,E
+28,Mississippi,3083,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand,202,,,,,,,,1,,E
+35,New Mexico,1112,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand,202,,,,,,,,1,,E
+37,North Carolina,1030,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand,202,,,,,,,,1,,E
+12,Florida,3996,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand with Silt,204,E,Gradations similar at section ends and averaged to determine material code.,,,,,,1,,E
+12,Florida,4107,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand with Silt,204,,,,,,,,1,,E
+27,Minnesota,1029,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand with Silt,204,E,Gradations similar at section ends and averaged to determine material code.,H,Atterberg limits similar at both section ends and Avg to determine material code.,,,,1,,E
+35,New Mexico,1022,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Poorly Graded Sand with Silt,204,,,,,,,,1,,E
+6,California,8151,1,1,,7,Subgrade,SS,Subgrade (untreated),2438.4,Coarse-Grained Soils: Well-Graded Sand with Silt and Gravel,211,,,,,,,,1,,E
+34,New Jersey,1638,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soils: Well-Graded Sand with Silt and Gravel,211,G,"Gradations different at section ends, material code from leave end used.",,,,,,1,,E
+1,Alabama,4126,1,1,,7,Subgrade,SS,Subgrade (untreated),3352.8,Coarse-Grained Soil: Silty Sand,214,,,,,,,,1,,E
+12,Florida,4103,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,E,Gradations similar at section ends and averaged to determine material code.,,,,,,1,,E
+12,Florida,4097,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,,,,,,,,1,,E
+23,Maine,1012,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,G,"Gradations different at section ends, material code from leave end used.",,,,,,1,,E
+28,Mississippi,1016,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,,,,,,,,1,,E
+35,New Mexico,2006,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,,,,,,,,1,,E
+40,Oklahoma,1015,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,,,,,,,,1,,E
+40,Oklahoma,4165,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,,,,,,,,1,,E
+45,South Carolina,1008,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,,,,,,,,1,,E
+48,Texas,1049,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,H,Atterberg limits similar at both section ends and Avg to determine material code.,,,,,,1,,E
+48,Texas,1060,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,,,,,,,,1,,E
+48,Texas,3559,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand,214,,,,,,,,1,,E
+6,California,2004,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Sand with Gravel,215,Z,Other (Enter description in COMMENT_NOTE field.),,,,,MCC FROM TEST PIT,1,,E
+6,California,8201,1,1,,7,Subgrade,SS,Subgrade (untreated),3962.4,Coarse-Grained Soil: Silty Sand with Gravel,215,,,,,,,,1,,E
+56,Wyoming,2018,1,1,,7,Subgrade,SS,Subgrade (untreated),5334.0,Coarse-Grained Soil: Clayey Sand,216,,,,,,,,1,,E
+1,Alabama,4125,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Clayey Sand with Gravel,217,,,,,,,,1,,E
+6,California,2647,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Clayey Sand with Gravel,217,,,,,,,,1,,E
+15,Hawaii,7080,1,1,,7,Subgrade,SS,Subgrade (untreated),431.8,Coarse-Grained Soil: Poorly Graded Gravel,252,,,,,,,,1,,E
+15,Hawaii,1008,1,1,,7,Subgrade,SS,Subgrade (untreated),500.4,Coarse-Grained Soil: Poorly Graded Gravel with Sand,253,,,,,,,,1,,E
+16,Idaho,1021,1,1,,7,Subgrade,SS,Subgrade (untreated),762.0,Coarse-Grained Soil: Poorly Graded Gravel with Silt,254,Z,Other (Enter description in COMMENT_NOTE field.),,,,,MCC FROM TEST PIT,1,,E
+50,Vermont,1002,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Poorly Graded Gravel with Silt and Sand,255,N,Info from the state DOT indicates that beginning end is more representative.,Z,Other (Enter description in COMMENT_NOTE field.),,,LIMITED CONDITION TESTPIT,1,,E
+12,Florida,1060,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Well-Graded Gravel with Sand,259,E,Gradations similar at section ends and averaged to determine material code.,,,,,,1,,E
+85,Newfoundland,1808,1,1,,7,Subgrade,SS,Subgrade (untreated),762.0,Coarse-Grained Soil: Well-Graded Gravel with Sand,259,Z,Other (Enter description in COMMENT_NOTE field.),,,,,BOULDERS PRESENT,1,,E
+85,Newfoundland,1801,1,1,,7,Subgrade,SS,Subgrade (untreated),1371.6,Coarse-Grained Soil: Well-Graded Gravel with Silt and Sand,261,Z,Other (Enter description in COMMENT_NOTE field.),,,,,BOULDERS,1,,E
+47,Tennessee,3075,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Silty Gravel with Sand,265,E,Gradations similar at section ends and averaged to determine material code.,,,,,,1,,E
+53,Washington,1501,1,1,,7,Subgrade,SS,Subgrade (untreated),1676.4,Coarse-Grained Soil: Silty Gravel with Sand,265,Z,Other (Enter description in COMMENT_NOTE field.),,,,,MCC 265 IS MORE REPRESENTATIVE,1,,E
+6,California,1253,1,1,,7,Subgrade,SS,Subgrade (untreated),375.9,Coarse-Grained Soil: Clayey Gravel with Sand,267,Z,Other (Enter description in COMMENT_NOTE field.),,,,,MCC 267 MORE REP,1,,E
+30,Montana,1001,1,1,,7,Subgrade,SS,Subgrade (untreated),,Coarse-Grained Soil: Clayey Gravel with Sand,267,,,,,,,,1,,E
+18,Indiana,2009,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,241.3,Gravel (Uncrushed),302,E,Gradations similar at section ends and averaged to determine material code.,,,,,,2,,E
+23,Maine,1012,1,3,,5,Base Layer,GB,Unbound (granular) base,335.3,Gravel (Uncrushed),302,,,,,,,,3,,E
+26,Michigan,1001,1,2,,5,Base Layer,GB,Unbound (granular) base,276.9,Gravel (Uncrushed),302,E,Gradations similar at section ends and averaged to determine material code.,H,Atterberg limits similar at both section ends and Avg to determine material code.,Z,Other (Enter description in COMMENT_NOTE field.),INV LAYER 2 NOT FOUND,3,,E
+26,Michigan,1010,1,3,,5,Base Layer,GB,Unbound (granular) base,289.6,Gravel (Uncrushed),302,E,Gradations similar at section ends and averaged to determine material code.,H,Atterberg limits similar at both section ends and Avg to determine material code.,,,,3,,E
+15,Hawaii,1003,1,3,,5,Base Layer,GB,Unbound (granular) base,261.6,Crushed Stone,303,,,,,,,,3,,E
+15,Hawaii,1006,1,3,,5,Base Layer,GB,Unbound (granular) base,198.1,Crushed Stone,303,,,,,,,,3,,E
+15,Hawaii,1008,1,4,,5,Base Layer,GB,Unbound (granular) base,215.9,Crushed Stone,303,,,,,,,,3,,E
+15,Hawaii,7080,1,4,,5,Base Layer,GB,Unbound (granular) base,106.7,Crushed Stone,303,,,,,,,,3,,E
+15,Hawaii,7080,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,0.0,Crushed Stone,303,Z,Other (Enter description in COMMENT_NOTE field.),,,,,THICKNESS VARIES,,,E
+15,Hawaii,7080,1,3,,6,Subbase Layer,GS,Unbound (granular) subbase,114.3,Crushed Stone,303,Z,Other (Enter description in COMMENT_NOTE field.),,,,,THICKNESS FRM PLANS/FIELD,2,,E
+15,Hawaii,1003,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,345.4,Crushed Stone,303,,,,,,,,2,,E
+15,Hawaii,1008,1,3,,6,Subbase Layer,GS,Unbound (granular) subbase,226.1,Crushed Stone,303,,,,,,,,2,,E
+29,Missouri,1005,1,2,,5,Base Layer,GB,Unbound (granular) base,99.1,Crushed Stone,303,,,,,,,,2,,E
+45,South Carolina,1008,1,2,,5,Base Layer,GB,Unbound (granular) base,198.1,Crushed Stone,303,,,,,,,,2,,E
+47,Tennessee,3075,1,2,,5,Base Layer,GB,Unbound (granular) base,233.7,Crushed Stone,303,,,,,,,,2,,E
+48,Texas,1060,1,3,,5,Base Layer,GB,Unbound (granular) base,312.4,Crushed Stone,303,,,,,,,,3,,E
+85,Newfoundland,1801,1,3,,5,Base Layer,GB,Unbound (granular) base,251.5,Crushed Stone,303,,,,,,,,3,,E
+85,Newfoundland,1801,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,284.5,Crushed Stone,303,,,,,,,,2,,E
+6,California,1253,1,2,,5,Base Layer,GB,Unbound (granular) base,388.6,Crushed Gravel,304,,,,,,,,2,,E
+16,Idaho,1021,1,2,,5,Base Layer,GB,Unbound (granular) base,134.6,Crushed Gravel,304,,,,,,,,2,,E
+30,Montana,1001,1,3,,5,Base Layer,GB,Unbound (granular) base,353.1,Crushed Gravel,304,,,,,,,,3,,E
+50,Vermont,1002,1,2,,5,Base Layer,GB,Unbound (granular) base,655.3,Crushed Gravel,304,,,,,,,,2,,E
+53,Washington,1501,1,4,,5,Base Layer,GB,Unbound (granular) base,162.6,Crushed Gravel,304,,,,,,,,2,,E
+53,Washington,1501,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,144.8,Crushed Gravel,304,,,,,,,,,,E
+85,Newfoundland,1808,1,3,,5,Base Layer,GB,Unbound (granular) base,114.3,Crushed Gravel,304,,,,,,,,3,,E
+85,Newfoundland,1808,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,431.8,Crushed Gravel,304,,,,,,,,2,,E
+12,Florida,4105,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,337.8,Sand,306,,,,,,,,2,,E
+23,Maine,1012,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,502.9,Sand,306,,,,,,,,2,,E
+26,Michigan,1010,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,482.6,Sand,306,E,Gradations similar at section ends and averaged to determine material code.,H,Atterberg limits similar at both section ends and Avg to determine material code.,,,,2,,E
+6,California,2004,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,571.5,Soil-Aggregate Mixture (Predominantly Fine-Grained),307,Z,Other (Enter description in COMMENT_NOTE field.),,,,,THICKNESS FROM TEST PIT,2,,E
+6,California,2647,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,312.4,Soil-Aggregate Mixture (Predominantly Fine-Grained),307,,,,,,,,2,,E
+6,California,8201,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,177.8,Soil-Aggregate Mixture (Predominantly Fine-Grained),307,,,,,,,,2,,E
+1,Alabama,4126,1,2,,5,Base Layer,GB,Unbound (granular) base,467.4,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,2,,E
+1,Alabama,1021,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,442.0,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,2,,E
+12,Florida,4107,1,2,,5,Base Layer,GB,Unbound (granular) base,304.8,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,Z,Other (Enter description in COMMENT_NOTE field.),,,,,INV. L'ER 3 NOT FND,2,,E
+12,Florida,3995,1,3,,5,Base Layer,GB,Unbound (granular) base,325.1,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,3,,E
+12,Florida,4099,1,3,,5,Base Layer,GB,Unbound (granular) base,276.9,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,3,,E
+12,Florida,4103,1,3,,5,Base Layer,GB,Unbound (granular) base,538.5,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,3,,E
+12,Florida,4103,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,144.8,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,2,,E
+13,Georgia,4111,1,2,,5,Base Layer,GB,Unbound (granular) base,208.3,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,2,,E
+15,Hawaii,1006,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,132.1,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,2,,E
+15,Hawaii,1008,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,50.8,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,,,E
+30,Montana,1001,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,233.7,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,Z,Other (Enter description in COMMENT_NOTE field.),,,,,DEPTH FROM TEST PIT,2,,E
+35,New Mexico,1022,1,2,,5,Base Layer,GB,Unbound (granular) base,269.2,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,2,,E
+35,New Mexico,1112,1,2,,5,Base Layer,GB,Unbound (granular) base,162.6,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,,,,,,,,2,,E
+48,Texas,3609,1,2,,5,Base Layer,GB,Unbound (granular) base,167.6,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,N,Info from the state DOT indicates that beginning end is more representative.,,,,,,2,,E
+48,Texas,3559,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,160.0,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,Z,Other (Enter description in COMMENT_NOTE field.),,,,,INV LAY 2 NOT FOUND,3,,E
+56,Wyoming,2018,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,38.1,Soil-Aggregate Mixture (Predominantly Coarse-Grained),308,Z,Other (Enter description in COMMENT_NOTE field.),,,,,DEPTH FROM TP AUGER MISSED,,,E
+12,Florida,3995,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,304.8,Fine-Grained Soils,309,E,Gradations similar at section ends and averaged to determine material code.,,,,,,2,,E
+12,Florida,4108,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,327.7,Fine-Grained Soils,309,E,Gradations similar at section ends and averaged to determine material code.,,,,,,2,,E
+12,Florida,3996,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,355.6,Fine-Grained Soils,309,,,,,,,,2,,E
+12,Florida,4099,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,274.3,Fine-Grained Soils,309,,,,,,,,2,,E
+1,Alabama,4125,1,2,,5,Base Layer,GB,Unbound (granular) base,165.1,"Other (Specify, if Possible)",310,Z,Other (Enter description in COMMENT_NOTE field.),,,,,SILTY SAND WITH GRAVEL MORE THAN 70%  PASSES NO,2,,E
+12,Florida,9054,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,304.8,"Other (Specify, if Possible)",310,Z,Other (Enter description in COMMENT_NOTE field.),,,,,CODE 310 CORRESPONDS TO A SILTY SAND,2,,E
+28,Mississippi,1016,1,2,,5,Base Layer,GB,Unbound (granular) base,490.2,"Other (Specify, if Possible)",310,Z,Other (Enter description in COMMENT_NOTE field.),,,,,310 CORRESPONDS TO A SILTY SAND,2,,E
+35,New Mexico,2006,1,2,,6,Subbase Layer,GS,Unbound (granular) subbase,154.9,"Other (Specify, if Possible)",310,Z,Other (Enter description in COMMENT_NOTE field.),,,,,MATERIAL CORRESPONDS TO A SILTY SAND,2,,E
+1,Alabama,1021,1,3,,5,Base Layer,TB,Bound (treated) base,114.3,HMAC,319,,,,,,,,3,,E
+1,Alabama,4125,1,4,,5,Base Layer,TB,Bound (treated) base,157.5,HMAC,319,,,,,,,,4,,E
+12,Florida,4097,1,6,,5,Base Layer,TB,Bound (treated) base,160.0,HMAC,319,,,,,,,,6,,E
+12,Florida,4108,1,3,,5,Base Layer,TB,Bound (treated) base,152.4,HMAC,319,,,,,,,,3,,E
+28,Mississippi,3082,1,3,,5,Base Layer,TB,Bound (treated) base,91.4,HMAC,319,,,,,,,,3,,E
+37,North Carolina,1030,1,2,,5,Base Layer,TB,Bound (treated) base,119.4,HMAC,319,,,,,,,,2,,E
+40,Oklahoma,1015,1,2,,5,Base Layer,TB,Bound (treated) base,205.7,HMAC,319,,,,,,,,2,,E
+40,Oklahoma,1017,1,2,,5,Base Layer,TB,Bound (treated) base,195.6,HMAC,319,,,,,,,,2,,E
+40,Oklahoma,4165,1,2,,5,Base Layer,TB,Bound (treated) base,139.7,HMAC,319,,,,,,,,2,,E
+48,Texas,3559,1,3,,5,Base Layer,TB,Bound (treated) base,154.9,HMAC,319,,,,,,,,4,,E
+18,Indiana,2009,1,3,,5,Base Layer,TB,Bound (treated) base,83.8,"Dense Graded, Cold Laid, Central Plant Mix",323,,,,,,,,3,,E
+35,New Mexico,2006,1,3,,5,Base Layer,TB,Bound (treated) base,121.9,"Dense Graded, Cold Laid, Mixed In-Place",324,,,,,,,,3,,E
+18,Indiana,2009,1,4,,5,Base Layer,TB,Bound (treated) base,165.1,"Open Graded, Cold Laid, Central Plant Mix",326,,,,,,,,4,,E
+5,Arkansas,3048,1,2,,5,Base Layer,TB,Bound (treated) base,188.0,Cement Aggregate Mixture,331,,,,,,,,2,,E
+6,California,2004,1,3,,5,Base Layer,TB,Bound (treated) base,134.6,Cement Aggregate Mixture,331,,,,,,,,3,,E
+6,California,2647,1,3,,5,Base Layer,TB,Bound (treated) base,134.6,Cement Aggregate Mixture,331,,,,,,,,3,,E
+6,California,8151,1,2,,5,Base Layer,TB,Bound (treated) base,152.4,Cement Aggregate Mixture,331,,,,,,,,2,,E
+6,California,8201,1,3,,5,Base Layer,TB,Bound (treated) base,121.9,Cement Aggregate Mixture,331,,,,,,,,3,,E
+34,New Jersey,1638,1,2,,5,Base Layer,TB,Bound (treated) base,188.0,Cement Aggregate Mixture,331,,,,,,,,2,,E
+48,Texas,1049,1,3,,5,Base Layer,TB,Bound (treated) base,284.5,Cement Aggregate Mixture,331,,,,,,,,3,,E
+56,Wyoming,2018,1,3,,5,Base Layer,TB,Bound (treated) base,365.8,Cement Aggregate Mixture,331,,,,,,,,2,,E
+12,Florida,1060,1,2,,5,Base Layer,GB,Unbound (granular) base,279.4,"Limerock, Caliche",337,,,,,,,,2,,E
+12,Florida,3996,1,3,,5,Base Layer,GB,Unbound (granular) base,210.8,"Limerock, Caliche",337,,,,,,,,3,,E
+12,Florida,4105,1,3,,5,Base Layer,GB,Unbound (granular) base,256.5,"Limerock, Caliche",337,,,,,,,,3,,E
+12,Florida,9054,1,3,,5,Base Layer,GB,Unbound (granular) base,251.5,"Limerock, Caliche",337,,,,,,,,3,,E
+17,Illinois,1003,1,2,,6,Subbase Layer,TS,Bound (treated) subbase,304.8,Lime-Treated Soil,338,,,,,,,,2,,E
+48,Texas,1049,1,2,,6,Subbase Layer,TS,Bound (treated) subbase,198.1,Lime-Treated Soil,338,,,,,,,,2,,E
+48,Texas,1060,1,2,,6,Subbase Layer,TS,Bound (treated) subbase,152.4,Lime-Treated Soil,338,,,,,,,,2,,E
+12,Florida,4097,1,2,,6,Subbase Layer,TS,Bound (treated) subbase,160.0,Soil Cement,339,,,,,,,,2,,E
+28,Mississippi,3083,1,2,,5,Base Layer,TB,Bound (treated) base,165.1,Soil Cement,339,,,,,,,,2,,E
+28,Mississippi,3082,1,2,,6,Subbase Layer,TS,Bound (treated) subbase,180.3,Soil Cement,339,,,,,,,,2,,E

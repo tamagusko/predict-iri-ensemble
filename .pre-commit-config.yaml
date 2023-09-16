@@ -1,0 +1,46 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+    -   id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
+    -   id: check-added-large-files
+        args: ['--maxkb=100000'] #  100MB
+    -   id: check-case-conflict
+    -   id: check-merge-conflict
+    -   id: end-of-file-fixer
+    -   id: check-docstring-first
+    -   id: debug-statements
+    -   id: check-yaml
+    -   id: requirements-txt-fixer
+    -   id: double-quote-string-fixer
+-   repo: https://github.com/PyCQA/flake8
+    rev: 6.1.0
+    hooks:
+    -   id: flake8
+        args: ["--ignore", "E501, W503"]
+        additional_dependencies: [flake8-typing-imports==1.12.0]
+-   repo: https://github.com/pre-commit/mirrors-autopep8
+    rev: v2.0.4
+    hooks:
+    -   id: autopep8
+-   repo: https://github.com/pycqa/isort
+    rev: 5.12.0
+    hooks:
+    -   id: isort
+        name: isort (python)
+-   repo: https://github.com/asottile/add-trailing-comma
+    rev: v3.1.0
+    hooks:
+    -   id: add-trailing-comma
+        args: [--py36-plus]
+-   repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.5.1
+    hooks:
+    -   id: mypy
+        additional_dependencies: ['types-requests']
+-   repo: https://github.com/Lucas-C/pre-commit-hooks-bandit
+    rev: v1.0.6
+    hooks:
+    -   id: python-bandit-vulnerability-check
+        args: [--skip, "B101", --recursive, clumper]
