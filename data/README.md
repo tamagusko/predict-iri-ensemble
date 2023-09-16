@@ -1,6 +1,6 @@
 The data to train the models was extracted from the [LTTP] portal (https://infopave.fhwa.dot.gov).
 
-##Filters:
+## Filters:
 
 - **Period:** 1933/01/01 - 2023/12/31
 - **Experiment Type:** GPS-1 and GPS-2
