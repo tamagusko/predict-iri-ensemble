@@ -1,13 +1,17 @@
 # Asphalt Pavements Performance Prediction Using Tree Ensemble Models
+Repository containing code and data from the article presented at TRA 2024.
 
-Repository from the article presented at the Transport Research Arena (TRA) 2024.  
+## TLDR
+Predict the performance of flexible pavements, specifically the International Roughness Index (IRI), using various Tree Ensemble models.
 
-Utilizing Random Forest, Gradient Boosting Decision Tree, XGBoost, LightGBM, and CatBoost to predict the IRI of flexible pavements with LTPP data.
+## Overview:
+This notebook contains the code used to train and compare five Tree Ensemble models, namely Random Forest, Gradient Boosting Decision Tree, XGBoost, LightGBM, and CatBoost, for predicting asphalt pavement performance (using IRI as a target). The models are trained using the Long-Term Pavement Performance (LTPP) program data.
 
 **Raw Data:** [Available Here](https://infopave.fhwa.dot.gov/DownloadTracker/Bucket/114229)
 
 **Citation:**  
 Tamagusko, T. & Ferreira, A. (2024). *Asphalt Pavements Performance Prediction Using Tree Ensemble Models*. Transport Research Arena. Dublin, Ireland.
+
 ```bibtex
 @article{Tamagusko-Ferreira2023-predict-iri-ensemble,
    author = {Tiago Tamagusko, Adelino Ferreira},
