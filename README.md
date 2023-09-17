@@ -22,7 +22,7 @@ Tamagusko, T. & Ferreira, A. (2024). *Asphalt Pavements Performance Prediction U
 }
 ```
 
-**Setup:** FIX THIS  
+**Setup:**
 1. `python -m venv venv`
 2. Windows: `venv\Scripts\activate` | Linux/Mac: `source venv/bin/activate`
 3. `pip install -r requirements.txt`
