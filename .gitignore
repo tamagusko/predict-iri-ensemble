@@ -6,6 +6,7 @@
 
 # Folders to ignore
 bkp/
+catboost_info/
 
 # Mac
 .DS_Store
