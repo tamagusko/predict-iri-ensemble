@@ -15,7 +15,7 @@ Tamagusko, T. & Ferreira, A. (2024). *Asphalt Pavements Performance Prediction U
 ```bibtex
 @article{Tamagusko-Ferreira2023-predict-iri-ensemble,
    author = {Tiago Tamagusko, Adelino Ferreira},
-   title = {Asphalt Pavements Performance Prediction Using Tree Ensemble Models},
+   title = {Asphalt Pavements Performance Prediction Using Ensemble Learning Methods},
    journal = {Transport Research Arena},
    year = 2024,
    address = {Dublin, Ireland}
