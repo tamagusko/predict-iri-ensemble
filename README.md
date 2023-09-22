@@ -10,7 +10,7 @@ This notebook contains the code used to train and compare five Tree Ensemble mod
 **Raw Data:** [Available Here](https://infopave.fhwa.dot.gov/DownloadTracker/Bucket/114229)
 
 **Citation:**  
-Tamagusko, T. & Ferreira, A. (2024). *Asphalt Pavements Performance Prediction Using Tree Ensemble Models*. Transport Research Arena. Dublin, Ireland.
+Tamagusko, T. & Ferreira, A. (2024). *Asphalt Pavements Performance Prediction Using Ensemble Learning Methods*. Transport Research Arena. Dublin, Ireland.
 
 ```bibtex
 @article{Tamagusko-Ferreira2023-predict-iri-ensemble,
