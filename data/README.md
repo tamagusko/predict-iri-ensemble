@@ -13,3 +13,11 @@ The data to train the models was extracted from the [LTTP] portal (https://infop
 ## Data Availability:
 
 The raw data can be downloaded from [https://infopave.fhwa.dot.gov/DownloadTracker/Bucket/114229](https://infopave.fhwa.dot.gov/DownloadTracker/Bucket/114229).
+
+### Data Release Statement
+
+Standard Data Release 37 (SDR37) - August, 2023. 
+
+### Citation
+
+Long Term Pavement Performance InfoPave, Standard Data Release, SDR 37, https://infopave.fhwa.dot.gov/Data/StandardDataRelease
